@@ -2,7 +2,7 @@
   "name": "language",
   "version": "1.0.0",
   "description": "",
-  "main": "src/02-data-types.ts",
+  "main": "src/03-functions.ts",
   "scripts": {
     "dev": "nodemon --config nodemon.json"
   },
