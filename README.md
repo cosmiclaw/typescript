@@ -1,7 +1,7 @@
 # Key JavaScript/TypeScript/React/Node Terms
 
 ### 1 -  Side Effect
-**Side Effect** is not a react-specific term. It is a general concept about behaviours of functions. A function is said to have side effect if it trys to modify anything outside its body. **For example**, if it modidifies a global variable, then it is a side effect. If it makes a network call, it is a side effect as well.
+**Side Effect** is not a react-specific term. It is a general concept about behaviors of functions. A function is said to have side effect if it try to modify anything outside its body. **For example**, if it modify a global variable, then it is a side effect. If it makes a network call, it is a side effect as well.
 
 ### 2 - Tree Shaking
 Tree shaking is a technique that removes unused code from JavaScript bundles, making them smaller and faster to load. e.g, unused variables, functions etc
