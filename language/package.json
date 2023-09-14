@@ -2,7 +2,7 @@
   "name": "language",
   "version": "1.0.0",
   "description": "",
-  "main": "src/05-generics.ts",
+  "main": "src/06-utility-types.ts",
   "scripts": {
     "dev": "nodemon --config nodemon.json"
   },
